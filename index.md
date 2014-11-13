@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ALT.NET- Berlin
+title: ALT.NET-Berlin
 ---
 
 ## Willkommen bei der ALT.NET User Group Berlin
