@@ -39,6 +39,7 @@ Die Intention hinter Code Katas ist sehr einfach. Jedes Training ist eine kurze 
 ### Was ist das Coding Dojo?
 
 Ein Coding Dojo ist ein Treffen von Entwicklern um eine Programmieraufgabe, die Code-Kata, zu lösen. Das Ziel des Treffens ist es, in einer gelösten, lockeren Atmosphäre gemeinsam neues zu erlernen und seine Fähigkeiten mit Hilfe von Übungen in einer geschlossenen und sicheren Umgebung sukzessive zu verbessern.
+
  * Nicht konkurrenzbetont, Gemeinschafts- und Spassorientiert
  * Alle Wissensgrade sind Willkommen (vom Einsteiger bis zum erfahrenen Softwareentwickler)
  * Ein sicherer Ort um Ideen zu testen und Gedanken zu kommunizieren
@@ -49,6 +50,7 @@ Ein Coding Dojo ist ein Treffen von Entwicklern um eine Programmieraufgabe, die 
 (Wir experimentieren mit anderen Abläufen, zum Beispiel einem Präsentationsteil am Anfang.  )
 
 Ein Dojo-Organisator stellt Katas vor und morderiert das Treffen
+
  1. Retrospektive des letzten Treffen. Was hat gut funktioniert? Was war spannend? Was war frustrierend? Was lässt sich verbessern? 20 Minuten Timebox
  1. Code-Katas Katalog für das aktuelle Treffen vorstellen 20 Minuten Timebox
  1. Die Runde entscheidet sich für eine Trainingsaufgabe und legt einen Zeitrahmen von maximal 90 Minuten fest
