@@ -1,6 +1,6 @@
 ---
 layout: default
 title: ALT.NET-Berlin
-redirect-from:
+redirect_from:
   - /bilder
 ---
