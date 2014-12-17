@@ -90,5 +90,5 @@ Ein Entwickler erklärt sich bereit, den vorgeschlagenen Lösungs-Code einzutipp
 
 #### Quellen
 
-Die Beste Anlaufstelle zum Thema is: http://codingdojo.org/, von hier haben wir die meisten Informationen.
-CodeKata-Blog von Dave Thomas (Pragmatic Programmer) http://codekata.pragprog.com/.
+Die Beste Anlaufstelle zum Thema is: [http://codingdojo.org](http://codingdojo.org/), von hier haben wir die meisten Informationen.
+CodeKata-Blog von Dave Thomas (Pragmatic Programmer) [http://codekata.pragprog.com](http://codekata.pragprog.com/).
